@@ -1,5 +1,4 @@
-#pip>=24.3.1
-pip install --upgrade pip
+pip>=24.3.1
 gdal==3.4.3
 absl-py==1.4.0
 accelerate==1.1.1
